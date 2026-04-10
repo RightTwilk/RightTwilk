@@ -20,7 +20,7 @@
 
 ### 👨‍🎓 Обо мне
 
-- 🎓 Студент 2 курса **БГУИР** (факультет компьютерного проектирования – уточни свой, если хочешь)
+- 🎓 Студент 2 курса **БГУИР**
 - 💻 Углублённо изучаю **Python** для **бэкенда**
 
 ---
@@ -43,7 +43,7 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=RightTwilk&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=RightTwilk&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?username=RightTwilk&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
