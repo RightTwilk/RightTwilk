@@ -36,12 +36,3 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_USERNAME&layout=compact&theme=radical&hide_border=true&langs_count=8" />
-</p>
-
-<!-- График активности -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ТВОЙ_USERNAME&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" />
-</p>
